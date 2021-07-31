@@ -1,0 +1,63 @@
+.all1{
+    margin-top: 160px;
+    text-align: center;
+}
+
+.satauri h5{
+    font-size: 13px;
+    margin-bottom: 23px;
+    font-family: 'semi';
+    color: #D4AF37;
+
+
+}
+.satauri h3{
+    font-size: 21px;
+    margin-bottom: 50px;
+    font-family: 'semi';
+}
+
+.all2{
+    background-color: #E6E6E6;
+    display: inline-block;
+}
+.text3{
+    text-align: left;
+    display: inline-block;
+    position: absolute;
+    margin-right: 400px;
+    top: 73%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+}
+.all2 img{
+    text-align: right;
+    display: inline-block;
+	vertical-align: middle;
+	margin-right: 300px;
+}
+
+.text3 h6{
+    font-size: 13px;
+    margin-bottom: 23px;
+    font-family: 'semi'
+}
+.text3 h4{
+    font-size: 22px;
+    margin-bottom: 50px;
+    font-family: 'semi';
+}
+.text3 p{
+    font-size: 16px;
+    margin-bottom: 80px;
+    font-family: 'light';
+}
+.text3 a{
+    text-decoration: none;
+    border:2px solid #707070;
+    padding: 18px 50px;
+    font-size: 14px;
+    font-family: "semi";
+    color: #021725;
+
+}
